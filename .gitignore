@@ -1,0 +1,12 @@
+# ignore all
+*
+
+# except
+!.gitignore
+!commands/
+!commands/*
+!consoleCommands/
+!consoleCommands/*
+!lainFiles/
+!lainFiles/*
+!lain.js
